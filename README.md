@@ -26,3 +26,10 @@ Coming up with recommendations in lowering the No-Show rates
   * Days in Advance 
   * Days Between
   * SMS Recieved
+
+## Operational Recommendations:
+* Limit long lead times between scheduling and appointment day, or introduce dynamic reminders (SMS/phone) that increase in frequency as the gap increases
+* Ensure that all patients receive timely text reminders (May consider A/B testing different reminder messages to identify the most effective phrasing and timing)
+* Provide extra follow-up for patients scheduled on Saturdays
+* Consider extra assistance such as transportation and childcare support for patients in poorer neighborhoods
+
