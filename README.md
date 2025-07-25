@@ -1,4 +1,4 @@
-# MedicalPrediction2025
+# Reducing Missed Appointments: Data Analysis and Predictive Modeling of Patient No-Shows
 
 ## Problem Statement:
 Missed appointments costs healthcare systems millions yearly. This project identifies key behavioral and demographic patterns behind patient no-shows using real clinical data.
